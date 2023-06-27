@@ -92,8 +92,8 @@ getgenv().Settings = {
 		JumpPower = 50
 	},
 	DashModifications = {
-		DashSpeed = 1750,
-		DashDistance = 100
+		DashSpeed = 5555,
+		DashDistance = 45
 	}
 }
 
